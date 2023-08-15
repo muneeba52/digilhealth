@@ -1,0 +1,5 @@
+{
+    "dbURI": "mongodb+srv://muneebamuzaffar52:password12345@digihealth.1wu7thy.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "jwtSecret",
+    "serverApiUrl": "http://localhost:5000"
+}
